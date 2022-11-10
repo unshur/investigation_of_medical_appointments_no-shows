@@ -1,4 +1,4 @@
-# Investigation of Medical Appointment No-Shows
+# Investigation of Medical Appointments No-Shows
 
 ## Ahmed Unshur
 
